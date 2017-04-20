@@ -1,0 +1,22 @@
+{
+  "name": "easyjet-api",
+  "version": "0.0.1",
+  "description": "Developer-friendly EasyJet API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "request": "2.81.0"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api"
+  ],
+  "license": "MIT"
+}
